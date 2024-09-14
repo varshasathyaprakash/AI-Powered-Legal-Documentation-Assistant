@@ -187,45 +187,6 @@ To run the backend
 python app.py
 ```
 
-## Screenshots of the Website
-
-- #### Home Page
-
-   ![image](https://github.com/user-attachments/assets/2c0aa890-35b6-49e3-91f3-81495998270f)
-
-
-- #### Documents Page
-   ![image](https://github.com/user-attachments/assets/34e297e7-05df-4200-9e19-a7e7d310829e)
-
-
-- #### Dynamic form page (generated for the specific legal document)
-
-   ![image](https://github.com/user-attachments/assets/0e03f6e8-d520-4f68-b286-c38edfb3288d)
-
-
-- #### Document Editor 
-
-   ![image](https://github.com/user-attachments/assets/6c062869-808a-4f5a-b3a9-04363c177704)
-
-
-- #### Downloading the document
-
-   ![image](https://github.com/user-attachments/assets/ec9e17e8-d3f5-4406-87a8-8cda5eb06d14)
-
-
-- #### Chatbot 
-
-    ![image](https://github.com/user-attachments/assets/2de6137b-3409-49de-8311-1c8847595512)
-
-
-- #### FAQ page
-
-   ![image](https://github.com/user-attachments/assets/6468eb64-38b2-4f1d-9960-eaf11340a989)
-
-
-- #### About Page
-
-  ![image](https://github.com/user-attachments/assets/13b1d1bb-86d1-4a19-b2ce-1ac556c8bac1)
 
 
 ## Contributors
